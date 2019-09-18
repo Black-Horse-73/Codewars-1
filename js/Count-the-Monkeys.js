@@ -19,3 +19,5 @@ function monkeyCount(n) {
    }
    return monkeys;
 }
+
+console.log(monkeyCount(15))
